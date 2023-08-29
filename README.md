@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **automation with python**
 
-- 🌱 I’m currently learning **Hyperledger Fabric**
+- 🌱 I’m currently learning **Proxmox**
 
 - 💬 Ask me about **Perl, Python**
 
