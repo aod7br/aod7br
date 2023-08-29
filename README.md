@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aod7br@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/home/Public?preview=cv.pdf](https://www.dropbox.com/home/Public?preview=cv.pdf)
+- 📄 Know about my experiences [[https://www.dropbox.com/home/Public?preview=cv.pdf](https://www.dropbox.com/s/0iyqs40z6c8pdlr/cv.pdf)]([https://www.dropbox.com/home/Public?preview=cv.pdf](https://www.dropbox.com/s/0iyqs40z6c8pdlr/cv.pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
