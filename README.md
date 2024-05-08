@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **automation with python**
 
-- 🌱 I’m currently learning **Proxmox**
+- 🌱 I’m currently learning **pytest**
 
-- 💬 Ask me about **Perl, Python**
+- 💬 Ask me about **Python, Perl**
 
 - 📫 How to reach me **aod7br@gmail.com**
 
